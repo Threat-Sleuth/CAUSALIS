@@ -2,25 +2,24 @@
 
 # CAUSALIS
 
-```{=html}
+
 <p align="center">
-```
-`<img src="app/static/brand/causalis_logo_primary.png" alt="CAUSALIS" width="720">`{=html}
-```{=html}
+
+<img src="app/static/brand/causalis_logo_primary.png" alt="CAUSALIS" width="720">
+
 </p>
-```
-```{=html}
+
+
 <p align="center">
-```
-`<strong>`{=html}Controlled Cyber
+
+<strong>Controlled Cyber
 Experimentation`</strong>`{=html}`<br>`{=html} `<em>`{=html}From
 controlled action to measurable evidence.`</em>`{=html}
-```{=html}
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
+
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Web_Framework-000000?logo=flask)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
