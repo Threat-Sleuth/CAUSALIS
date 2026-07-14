@@ -13,8 +13,8 @@
 <p align="center">
 
 <strong>Controlled Cyber
-Experimentation`</strong>`{=html}`<br>`{=html} `<em>`{=html}From
-controlled action to measurable evidence.`</em>`{=html}
+Experimentation</strong><br><em>From
+controlled action to measurable evidence.</em>
 
 </p>
 
@@ -26,9 +26,9 @@ controlled action to measurable evidence.`</em>`{=html}
 ![Status](https://img.shields.io/badge/Status-Beta-orange)
 ![Version](https://img.shields.io/badge/Version-v0.1.2-brightgreen)
 
-```{=html}
+
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
