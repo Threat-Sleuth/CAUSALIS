@@ -937,7 +937,7 @@ Compatibility with validated experimental data is considered a regression-critic
 
 # Published Experimental Evidence — July 2026
 
-The repository includes an archive of the **July 24, 2026 CAUSALIS experimental campaign**, provided as `Experimento 240726(4).zip` in the accompanying release materials. This archive preserves experimental evidence and derived research artifacts so that readers can inspect the progression from controlled traffic execution and service telemetry to machine-learning datasets and evaluation reports.
+The repository includes an archive of the **July 24, 2026 CAUSALIS experimental campaign**, provided as `Experimento 240726.zip` in the accompanying release materials. This archive preserves experimental evidence and derived research artifacts so that readers can inspect the progression from controlled traffic execution and service telemetry to machine-learning datasets and evaluation reports.
 
 The archive's internal root directory is `Experimento 240726/`. Its contents are organized as follows:
 
